@@ -1,8 +1,11 @@
 # Learning C Programming
 
-Welcome to my C Programming Learning Repository! This repository is dedicated to my journey of learning and mastering the C programming language using **multiple books and resources**. It serves as a collection of exercises, examples, projects, and notes from various C programming books and tutorials.
+Welcome to my C Programming Learning Repository! This repository is dedicated to my journey of learning and mastering the C programming language using **multiple books and resources**. 
+
+It serves as a collection of exercises, examples, projects, and notes from various C programming books and tutorials.
 
 ## Table of Contents
+
 1. [About This Repository](#about-this-repository)
 2. [Why Learn C?](#why-learn-c)
 3. [Books and Resources](#books-and-resources)
@@ -19,9 +22,9 @@ This repository is a personal learning journal and a structured collection of C 
 
 It is designed to:
 
-- Document my progress as I work through multiple C programming books and resources.
+1. Document my progress as I work through multiple C programming books and resources.
 
-- Provide a structured way to practice and reinforce concepts.
+2. Provide a structured way to practice and reinforce concepts.
 
 - Serve as a reference for others learning C programming.
 
@@ -29,20 +32,20 @@ It is designed to:
 
 C is one of the most influential programming languages in the history of computing. Here are a few reasons why learning C is valuable:
 
-- **Foundational Knowledge**
+1 **Foundational Knowledge**
 
     C is the foundation for many modern programming languages like C++, Java, and Python.
 
 
-- **System Programming**
+2. **System Programming**
 
     C is widely used in operating systems, embedded systems, and low-level programming.
 
-- **Performance**
+3. **Performance**
 
     C provides fine-grained control over system resources, making it ideal for performance-critical applications.
 
-- **Versatility**
+4. **Versatility**
 
     C is used in a wide range of applications, from operating systems to game development.
 
@@ -52,11 +55,11 @@ To get started with this repository, follow these steps:
 
 ### Prerequisites
 
-- A basic understanding of programming concepts (e.g., variables, loops, functions).
+1. A basic understanding of programming concepts (e.g., variables, loops, functions).
 
-- A C compiler (e.g., `gcc` for Linux, `clang` for macOS, or `MinGW` for Windows).
+2. A C compiler (e.g., `gcc` for Linux, `clang` for macOS, or `MinGW` for Windows).
 
-- A text editor or IDE (e.g., VS Code, Sublime Text, or Vim).
+3. A text editor or IDE (e.g., VS Code, Sublime Text, or Vim).
 
 ### Installation
 
@@ -109,4 +112,4 @@ If you'd like to contribute to this repository:
 Contributions are welcome! If you have suggestions, improvements, or additional exercises, feel free to open an issue or submit a pull request. Please ensure your contributions align with the repository's goals and follow the existing structure.
 
 ### License
-This repository is licensed under the **MIT License**. See the [LICENSE] file for details.
+This repository is licensed under the **MIT License**. See the [LICENSE](https://github.com/BiKodes/c-coding-labs/blob/develop/LICENSE) file for details.
