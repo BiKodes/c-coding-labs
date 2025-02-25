@@ -1,6 +1,8 @@
 # Learning C Programming
 
-Welcome to my C Programming Learning Repository! This repository is dedicated to my journey of learning and mastering the C programming language using **multiple books and resources**. 
+Welcome to my C Programming Learning Repository! 
+
+This repository is dedicated to my journey of learning and mastering the C programming language using **multiple books and resources**. 
 
 It serves as a collection of exercises, examples, projects, and notes from various C programming books and tutorials.
 
@@ -26,7 +28,7 @@ It is designed to:
 
 2. Provide a structured way to practice and reinforce concepts.
 
-- Serve as a reference for others learning C programming.
+3. Serve as a reference for others learning C programming.
 
 ## Why Learn C?
 
@@ -109,7 +111,9 @@ If you'd like to contribute to this repository:
 
 ### Contributing
 
-Contributions are welcome! If you have suggestions, improvements, or additional exercises, feel free to open an issue or submit a pull request. Please ensure your contributions align with the repository's goals and follow the existing structure.
+Contributions are welcome! 
+
+If you have suggestions, improvements, or additional exercises, feel free to open an issue or submit a pull request. Please ensure your contributions align with the repository's goals and follow the existing structure.
 
 ### License
 This repository is licensed under the **MIT License**. See the [LICENSE](https://github.com/BiKodes/c-coding-labs/blob/develop/LICENSE) file for details.
