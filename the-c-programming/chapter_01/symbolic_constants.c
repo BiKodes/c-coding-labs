@@ -6,10 +6,10 @@
 
 /* print Fahrenheit-Celsius table */
 
-float main(float argc, char const *argv[])
+float main()
 {
     int fahr;
 
-    for (fahr = LOWER; fahr <= UPPER; fahr = fahr + 20)
+    for (fahr = LOWER; fahr <= UPPER; fahr = fahr + STEP)
         printf("3%d %6.1f\n", fahr, (5.0/9.0)*(fahr - 32));
 }
