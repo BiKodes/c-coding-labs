@@ -2,7 +2,7 @@
 
 /* copy input to output; 1st version */
 
-char main(char argc, char const *argv[])
+main()
 {
     int c;
 
