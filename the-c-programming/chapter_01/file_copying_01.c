@@ -6,6 +6,8 @@ main()
 {
     int c;
 
+    /* The input is centralized */
+
     while ((c = getchar()) != EOF)
         putchar(c);
 }
