@@ -6,7 +6,7 @@
 * Helper functions to compute integer ranges
 */
 
-void compute_signed_range(char *type_name, long long (*cast_fn)(long long), long long start_val){
+void compute_signed_range(char *type_name, long long start_val){
     long long val = start_val;
     long long prev = val;
 
@@ -21,10 +21,7 @@ void compute_signed_range(char *type_name, long long (*cast_fn)(long long), long
     }
 }
 
-void compute_unsigned_range(
-    char *type_name, 
-    unsigned long long (*cast_fn)(unsigned long long), 
-    unsigned long long start_val){
+void compute_unsigned_range(char *type_name, unsigned long long start_val){
         unsigned long long val = start_val;
         unsigned long long prev = val;
 
