@@ -81,16 +81,16 @@ int main(void) {
 
     // signed ranges
 
-    cumpute_signed_range("char", NULL, 0);
-    compute_signed_range("short", NULL, 0);
-    compute_signed_range("int", NULL, 0);
-    compute_signed_range("long", NULL, 0);
+    cumpute_signed_range("char", 0);
+    compute_signed_range("short", 0);
+    compute_signed_range("int", 0);
+    compute_signed_range("long", 0);
 
     // Unsigned ranges
-    compute_unsigned_range("char", NULL, 0);
-    compute_unsigned_range("short", NULL, 0);
-    compute_unsigned_range("int", NULL, 0);
-    compute_unsigned_range("long", NULL, 0);
+    compute_unsigned_range("char", 0);
+    compute_unsigned_range("short", 0);
+    compute_unsigned_range("int", 0);
+    compute_unsigned_range("long", 0);
 
     printf("\nFloating point (approximate computation: \n)");
     compute_float_range("float", 1.0f);
